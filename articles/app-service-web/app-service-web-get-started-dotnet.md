@@ -1,5 +1,5 @@
 ---
-title: "在 Azure 中不到 5 分钟创建你的第一个 ASP.NET Web 应用 | Microsoft 文档"
+title: "我喜欢的案例"
 description: "了解如何通过部署一个简单的 ASP.NET 应用程序，轻松在应用服务中运行 Web 应用。"
 services: app-service\web
 documentationcenter: 
